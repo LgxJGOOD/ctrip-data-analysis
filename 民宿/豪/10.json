@@ -1,0 +1,2782 @@
+{
+    "data": {
+        "hotelList": [
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "85583693",
+                        "masterHotelId": "85583693",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "韵雅居",
+                        "enName": "Yunyaju homestay",
+                        "names": [
+                            "韵雅居"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "民宿",
+                        "categoryId": 510,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 537771326,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0202l120009a6chdxE2F8_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 540555147,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/02003120009bdyds23777_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 537671152,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0204b120009a2yebh7AB7_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 966749339,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0202u12000cazzjya2C18_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 537671187,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0220e12000asasns6E3BC_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 2,
+                        "starType": 2,
+                        "starIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/T2Images/0623/ic_new_circle2@3x.png"
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": [],
+                        "primeHotel": {
+                            "tagId": 12371,
+                            "tagTitle": "优享会",
+                            "tagPosition": 232,
+                            "tagTemplateId": 0,
+                            "tagIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png",
+                            "value": ""
+                        }
+                    },
+                    "commentInfo": {
+                        "commentScore": "4.6",
+                        "commentDescription": "很好",
+                        "commenterNumber": "64条点评",
+                        "subScore": [
+                            {
+                                "number": "4.6",
+                                "content": "卫生",
+                                "scoreAvg": "4.3",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "4.6",
+                                "content": "设施",
+                                "scoreAvg": "4.3",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "环境",
+                                "scoreAvg": "4.3",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "服务",
+                                "scoreAvg": "4.3",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"智能锁，入住方便，隔音不错\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFyLEOgjAQBuB3+ecOZ2vPo6MbA9H4BuS4hEZAUspAjO/uYuI3fm+Mr2pTOyBJjBK4CQ41z7bVfl6RThfx1AifIzE76Gj6bBckePJM7D1+edvrfwMchrytU3/cS1ZDEnLQvRRb9EDCo7vi8wWBYCNA",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 213,
+                        "cityName": "常州",
+                        "cityNameEn": "Changzhou",
+                        "positionDesc": "近中华恐龙园 · 新区公园地铁站",
+                        "address": "保纳广场2号楼8楼",
+                        "zoneNames": [
+                            "环球恐龙城/奥体中心"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.838999340440807",
+                                "longitude": "119.99547494984321",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1175293100",
+                            "saleRoomName": "风情大床房",
+                            "physicsName": "风情大床房",
+                            "shadowId": "0",
+                            "encryptedRoomId": "86QZXJ",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 80,
+                            "currency": "RMB",
+                            "displayPrice": "¥80",
+                            "displayPriceDetail": {
+                                "price": "80",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 128,
+                            "deleteDisplayPrice": "¥128",
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_double_bed"
+                            ],
+                            "contentList": [
+                                "1张1.6米大床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "1张大床（1.6米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "订单确认后30分钟内免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [
+                                {
+                                    "tagTitle": "新客体验钻石",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "门店首单",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "十亿豪补",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "discountTags": [
+                                {
+                                    "tagTitle": "3项优惠48",
+                                    "tagId": -5,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "热卖！低价房仅剩2间",
+                                    "tagId": 20011,
+                                    "tagTemplateId": 202269,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "120875927",
+                        "masterHotelId": "120875927",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "米雅轻奢影院民宿(常州高铁北站)",
+                        "enName": "Miya Boutique Cinema Homestay (Changzhou North High-speed Railway Station)",
+                        "names": [
+                            "米雅轻奢影院民宿（常州高铁北站）"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "民宿",
+                        "categoryId": 510,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 1093149353,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc6f12000eqyfvmh0892_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1093183303,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc3g12000eqzno1yD261_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1093184911,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc4q12000eqzp1fs6174_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1093183803,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc1g12000eqznjzpF2EF_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1087172051,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0202k12000ek8umn15134_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 2,
+                        "starType": 2,
+                        "starIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/T2Images/0623/ic_new_circle2@3x.png"
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": []
+                    },
+                    "commentInfo": {
+                        "commentScore": "3.5",
+                        "commentDescription": "",
+                        "commenterNumber": "46条点评",
+                        "subScore": [
+                            {
+                                "number": "3.4",
+                                "content": "卫生",
+                                "scoreAvg": "4.3",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "3.5",
+                                "content": "设施",
+                                "scoreAvg": "4.3",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "3.6",
+                                "content": "环境",
+                                "scoreAvg": "4.3",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "3.4",
+                                "content": "服务",
+                                "scoreAvg": "4.3",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"周边很安静，老板服务没的说\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFyLEKgzAQBuB3+ecMyVUv8cZuDtLiG8gZMFStxDhI6bu7FPqN3wfTu8S5HSGObPB1Q96gpCXuZVg2iPOBbBO4qi2zgU5RX+0KAVliy0T45eMo/73BYEz7Ng/nMyeNEFeRgR45x1VPCPruju8FuP0jmQ==",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 213,
+                        "cityName": "常州",
+                        "cityNameEn": "Changzhou",
+                        "positionDesc": "近薛家中心广场 · 双拥公园",
+                        "address": "薛家凤凰湖北苑24幢805室",
+                        "zoneNames": [
+                            "高铁北站/薛家工业园区"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.85858400786671",
+                                "longitude": "119.92606681690589",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1555914218",
+                            "saleRoomName": "云曼轻奢（巨幕影音大床房）[L0FT上+洗衣机+冰箱]",
+                            "physicsName": "云曼轻奢（巨幕影音大床房）[L0FT上+洗衣机+冰箱]",
+                            "shadowId": "0",
+                            "encryptedRoomId": "OQ0AC4",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 142,
+                            "currency": "RMB",
+                            "displayPrice": "¥142",
+                            "displayPriceDetail": {
+                                "price": "142",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 219,
+                            "deleteDisplayPrice": "¥219",
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_double_bed"
+                            ],
+                            "contentList": [
+                                "1张1.81米特大床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "1张特大床（1.81米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "订单确认后30分钟内免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [
+                                {
+                                    "tagTitle": "十亿豪补",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "折扣券",
+                                    "tagId": 10040,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "discountTags": [
+                                {
+                                    "tagTitle": "2项优惠77",
+                                    "tagId": -5,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "热卖！低价房仅剩3间",
+                                    "tagId": 20011,
+                                    "tagTemplateId": 202269,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "110879673",
+                        "masterHotelId": "110879673",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "燊海蓝湾民宿(常州北站店)",
+                        "enName": "Shenhai Lanwan Homestay (Changzhou North Station)",
+                        "names": [
+                            "燊海蓝湾民宿(常州北站店)"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "民宿",
+                        "categoryId": 510,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 952506809,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0222c12000c43lq4156EF_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 914034727,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0585x12000sp2x7f4CCB1_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1062608213,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0225012000dr9f7r426B2_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 914034751,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0223612000b9xdpwp0A9A_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 914034735,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0225e12000avsytot3EEA_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 2,
+                        "starType": 2,
+                        "starIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/T2Images/0623/ic_new_circle2@3x.png"
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": [],
+                        "primeHotel": {
+                            "tagId": 12371,
+                            "tagTitle": "优享会",
+                            "tagPosition": 232,
+                            "tagTemplateId": 0,
+                            "tagIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png",
+                            "value": ""
+                        }
+                    },
+                    "commentInfo": {
+                        "commentScore": "4.9",
+                        "commentDescription": "超棒",
+                        "commenterNumber": "46条点评",
+                        "subScore": [
+                            {
+                                "number": "4.9",
+                                "content": "卫生",
+                                "scoreAvg": "4.3",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "4.9",
+                                "content": "设施",
+                                "scoreAvg": "4.3",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "4.9",
+                                "content": "环境",
+                                "scoreAvg": "4.3",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "4.9",
+                                "content": "服务",
+                                "scoreAvg": "4.3",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"交通很便利，地铁口就在楼下\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFyLEOgjAQBuB3+ecO14LX9kY3BqLxDUi5hEZAUspAjO/uYuI3fm9Mr6pzN0KspeAj+8ag5kX3OiwbxPrgKAZuL8RskCZNz26FwJFjYufwy9tR/9vAYMz7Ng/nveSkENtGg3SUoms6IXj0V3y+ufEjoQ==",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 213,
+                        "cityName": "常州",
+                        "cityNameEn": "Changzhou",
+                        "positionDesc": "近常州北站 · 高铁北站/薛家工业园区",
+                        "address": "龙虎塘街道壹号天禧花园1幢甲单元1324室",
+                        "zoneNames": [
+                            "高铁北站/薛家工业园区"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.85952677249966",
+                                "longitude": "119.9731133391522",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1666021356",
+                            "saleRoomName": "市景酷喵会员投影精致大床房",
+                            "physicsName": "市景酷喵会员投影精致大床房",
+                            "shadowId": "0",
+                            "encryptedRoomId": "R8VH93",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 149,
+                            "currency": "RMB",
+                            "displayPrice": "¥149",
+                            "displayPriceDetail": {
+                                "price": "149",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 218,
+                            "deleteDisplayPrice": "¥218",
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_double_bed"
+                            ],
+                            "contentList": [
+                                "1张1.8米大床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "1张大床（1.8米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [
+                                {
+                                    "tagTitle": "新客体验钻石",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "门店首单",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "折扣券",
+                                    "tagId": 10040,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "十亿豪补",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "discountTags": [
+                                {
+                                    "tagTitle": "4项优惠69",
+                                    "tagId": -5,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "热卖！低价房仅剩1间",
+                                    "tagId": 20011,
+                                    "tagTemplateId": 202269,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "128444152",
+                        "masterHotelId": "128444152",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "悠宿民宿(常州恐龙园店)",
+                        "enName": "You Su Homestay (Changzhou Dinosaur Garden Branch)",
+                        "names": [
+                            "悠宿民宿（常州恐龙园店）"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "民宿",
+                        "categoryId": 510,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 1847076649,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc5x12000skvu6vbCA3C_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1388183907,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc3p12000kgilwfn7DFD_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1388181217,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc4912000kgii63r33A4_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1388180919,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc3h12000kgij8sv5A4D_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1393305381,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0582712000soq8ljgA68C_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 2,
+                        "starType": 2,
+                        "starIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/T2Images/0623/ic_new_circle2@3x.png"
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": [],
+                        "primeHotel": {
+                            "tagId": 12371,
+                            "tagTitle": "优享会",
+                            "tagPosition": 232,
+                            "tagTemplateId": 0,
+                            "tagIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png",
+                            "value": ""
+                        }
+                    },
+                    "commentInfo": {
+                        "commentScore": "4.5",
+                        "commentDescription": "很好",
+                        "commenterNumber": "111条点评",
+                        "subScore": [
+                            {
+                                "number": "4.5",
+                                "content": "卫生",
+                                "scoreAvg": "4.3",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "4.4",
+                                "content": "设施",
+                                "scoreAvg": "4.3",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "环境",
+                                "scoreAvg": "4.3",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "服务",
+                                "scoreAvg": "4.3",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"服务热情，设施完善，卫生干净\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFyLEOgjAQBuB3+ecO16PUeqMbg9H4BuS4hEZAUspAjO/uYuI3fm+Mr2pTN0A8pxCCb9mh5tm22s8rxJ8S0znF0FKMDjqaPrsFAiaOFJnxy9te/9vAYcjbOvXHvWQ1iKfGQfdSbNEDgsf1gs8XtJIjjA==",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 213,
+                        "cityName": "常州",
+                        "cityNameEn": "Changzhou",
+                        "positionDesc": "近中华恐龙园 · 常州奥林匹克体育中心",
+                        "address": "三井街道太湖东路5号山外有山公寓2幢336室",
+                        "zoneNames": [
+                            "环球恐龙城/奥体中心"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.81745050175063",
+                                "longitude": "120.0133353749232",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1658385717",
+                            "saleRoomName": "悠享大床房【巨幕投影·声控窗帘·智能马桶】",
+                            "physicsName": "悠享大床房【巨幕投影·声控窗帘·智能马桶】",
+                            "shadowId": "0",
+                            "encryptedRoomId": "R60XZW",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 103,
+                            "currency": "RMB",
+                            "displayPrice": "¥103",
+                            "displayPriceDetail": {
+                                "price": "103",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 143,
+                            "deleteDisplayPrice": "¥143",
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_double_bed"
+                            ],
+                            "contentList": [
+                                "1张1.8米大床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "1张大床（1.8米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [
+                                {
+                                    "tagTitle": "新客体验钻石",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "十亿豪补",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "discountTags": [
+                                {
+                                    "tagTitle": "2项优惠40",
+                                    "tagId": -5,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "5小时前有人预订",
+                                    "tagId": 20013,
+                                    "tagTemplateId": 202270,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "125764170",
+                        "masterHotelId": "125764170",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "和季·CityView云端公寓(武进吾悦广场店)",
+                        "enName": "Heji CityView Yunduan Apartment (Wujin Wuyue Square)",
+                        "names": [
+                            "和季·CityView云端公寓（武进吾悦广场店）"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "公寓",
+                        "categoryId": 513,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 1279522339,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc7012000iutlgna6FF0_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1265689163,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc0512000ifqx1mb90B7_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1265714981,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc0z12000ifrc1y82222_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1261221507,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc1h12000i5bu6eo3DDD_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1261216645,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc4s12000i5bex052565_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 2,
+                        "starType": 2,
+                        "starIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/T2Images/0623/ic_new_circle2@3x.png"
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": [],
+                        "primeHotel": {
+                            "tagId": 12371,
+                            "tagTitle": "优享会",
+                            "tagPosition": 232,
+                            "tagTemplateId": 0,
+                            "tagIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png",
+                            "value": ""
+                        }
+                    },
+                    "commentInfo": {
+                        "commentScore": "4.7",
+                        "commentDescription": "超棒",
+                        "commenterNumber": "211条点评",
+                        "subScore": [
+                            {
+                                "number": "4.7",
+                                "content": "卫生",
+                                "scoreAvg": "4.3",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "设施",
+                                "scoreAvg": "4.3",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "环境",
+                                "scoreAvg": "4.3",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "服务",
+                                "scoreAvg": "4.3",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"房间不错干净整洁舒适\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFyLEOgjAQBuB3+ecOvbNc8UY3BqPxDUi5hEZAUspAjO/uYuI3fm+Mr2pTN0CJmyiBoneoebat9vMKpdiyP7cSGi/ikEZLz26Bgj2LF2b88rbX/57gMORtnfrjXnIyKAVySHsptqQDisf1gs8XtZkjkA==",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 213,
+                        "cityName": "常州",
+                        "cityNameEn": "Changzhou",
+                        "positionDesc": "近万达广场(常州武进店) · 聚湖路地铁站",
+                        "address": "武宜北路229号绿地峰荟时代22幢25楼",
+                        "zoneNames": [
+                            "春秋淹城/野生动物园景区"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.73971647560877",
+                                "longitude": "119.94782391002113",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1625710378",
+                            "saleRoomName": "高空观影大床房（伸缩幕布+巨幕超清观影+飘窗城景）",
+                            "physicsName": "高空观影大床房（伸缩幕布+巨幕超清观影+飘窗城景）",
+                            "shadowId": "0",
+                            "encryptedRoomId": "QUVH5H",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 141,
+                            "currency": "RMB",
+                            "displayPrice": "¥141",
+                            "displayPriceDetail": {
+                                "price": "141",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 238,
+                            "deleteDisplayPrice": "¥238",
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_double_bed"
+                            ],
+                            "contentList": [
+                                "1张1.5米双人床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "1张双人床（1.5米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [
+                                {
+                                    "tagTitle": "新客体验钻石",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "门店首单",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "十亿豪补",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "折扣券",
+                                    "tagId": 10040,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "discountTags": [
+                                {
+                                    "tagTitle": "4项优惠97",
+                                    "tagId": -5,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "16分钟前有人预订",
+                                    "tagId": 20013,
+                                    "tagTemplateId": 202270,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "115179659",
+                        "masterHotelId": "115179659",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "云谧空庭公寓(常州大学城店)",
+                        "enName": "Yunmi Kongting Apartment (Changzhou University Town)",
+                        "names": [
+                            "云谧空庭公寓（常州大学城店）"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "民宿",
+                        "categoryId": 510,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 1026251997,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc0k12000d1pui9x2DF4_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1563403987,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc2412000mxtiybz7F04_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1026251887,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc2r12000d1pujp4DF59_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1026263603,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc6w12000d1pupuy5FD2_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1028944787,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc5w12000d3v8rihA881_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 2,
+                        "starType": 2,
+                        "starIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/T2Images/0623/ic_new_circle2@3x.png"
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": [],
+                        "primeHotel": {
+                            "tagId": 12371,
+                            "tagTitle": "优享会",
+                            "tagPosition": 232,
+                            "tagTemplateId": 0,
+                            "tagIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png",
+                            "value": ""
+                        }
+                    },
+                    "commentInfo": {
+                        "commentScore": "4.7",
+                        "commentDescription": "超棒",
+                        "commenterNumber": "315条点评",
+                        "subScore": [
+                            {
+                                "number": "4.7",
+                                "content": "卫生",
+                                "scoreAvg": "4.3",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "4.6",
+                                "content": "设施",
+                                "scoreAvg": "4.3",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "4.6",
+                                "content": "环境",
+                                "scoreAvg": "4.3",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "服务",
+                                "scoreAvg": "4.3",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"复式结构，面积很大，支持投影设备\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFyLEOgjAQBuB3+ecOvdMetKMbg9H4BuS4hEZAUspAjO/uYuI3fm+Mr2pTNyARBWqihOhQ82xb7ecViZqWfWzlHLyIg46mz25BAnsWL8z45W2v/z3BYcjbOvXHvWQ1JBLvoHsptuiBhMf1gs8Xuj0jnA==",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 213,
+                        "cityName": "常州",
+                        "cityNameEn": "Changzhou",
+                        "positionDesc": "近武进站 · 科教城南地铁站",
+                        "address": "天安数码城34幢10层",
+                        "zoneNames": [
+                            "春秋淹城/野生动物园景区"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.67446598140243",
+                                "longitude": "119.95934975622119",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1499242560",
+                            "saleRoomName": "云谧复式特价大床房",
+                            "physicsName": "云谧复式特价大床房",
+                            "shadowId": "0",
+                            "encryptedRoomId": "NYZXXN",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 160,
+                            "currency": "RMB",
+                            "displayPrice": "¥160",
+                            "displayPriceDetail": {
+                                "price": "160",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 249,
+                            "deleteDisplayPrice": "¥249",
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_double_bed"
+                            ],
+                            "contentList": [
+                                "1张1.8米大床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "1张大床（1.8米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [
+                                {
+                                    "tagTitle": "新客体验钻石",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "十亿豪补",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "discountTags": [
+                                {
+                                    "tagTitle": "2项优惠89",
+                                    "tagId": -5,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "热卖！低价房仅剩4间",
+                                    "tagId": 20011,
+                                    "tagTemplateId": 202269,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "119332696",
+                        "masterHotelId": "119332696",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "常州朴宿民宿",
+                        "enName": "Changzhou Pusu Homestay",
+                        "names": [
+                            "常州朴宿民宿"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "民宿",
+                        "categoryId": 510,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 1238064753,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc1a12000hkep79sCA63_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1066398137,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0202w12000dtlp7910303_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1238048267,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0200z12000hkdkg3aA88A_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1238049729,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0202s12000hkdlzksEAA0_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1238055499,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0200k12000hkdt68lFD7A_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 2,
+                        "starType": 2,
+                        "starIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/T2Images/0623/ic_new_circle2@3x.png"
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": [],
+                        "primeHotel": {
+                            "tagId": 12371,
+                            "tagTitle": "优享会",
+                            "tagPosition": 232,
+                            "tagTemplateId": 0,
+                            "tagIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png",
+                            "value": ""
+                        }
+                    },
+                    "commentInfo": {
+                        "commentScore": "4.7",
+                        "commentDescription": "超棒",
+                        "commenterNumber": "40条点评",
+                        "subScore": [
+                            {
+                                "number": "4.9",
+                                "content": "卫生",
+                                "scoreAvg": "4.3",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "设施",
+                                "scoreAvg": "4.3",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "4.9",
+                                "content": "环境",
+                                "scoreAvg": "4.3",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "服务",
+                                "scoreAvg": "4.3",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"房间很干净卫生，是出差附近找的店\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFzLEKwjAQBuB3+ecMyUXPJKNbB1F8g3I9aLCtJU2HIr67FAqu3/B90L+rDk2H5Fz0njiyQc2jLrUdZyR3CWRj4NPZMhtIr/JqJiSQJbZMhAPva/2rh0GXl3lot0fJovseDGQtRSfZkPC8XfH9AbjGI5s=",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 213,
+                        "cityName": "常州",
+                        "cityNameEn": "Changzhou",
+                        "positionDesc": "近万达广场(常州武进店) · 聚湖路地铁站",
+                        "address": "大通东路美的国宾府16幢5层",
+                        "zoneNames": [
+                            "春秋淹城/野生动物园景区"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.737185807851407",
+                                "longitude": "119.95640323160276",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1542353291",
+                            "saleRoomName": "温馨浪漫大床房",
+                            "physicsName": "温馨浪漫大床房",
+                            "shadowId": "0",
+                            "encryptedRoomId": "OIMP4P",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 118,
+                            "currency": "RMB",
+                            "displayPrice": "¥118",
+                            "displayPriceDetail": {
+                                "price": "118",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 200,
+                            "deleteDisplayPrice": "¥200",
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_double_bed"
+                            ],
+                            "contentList": [
+                                "1张1.8米大床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "1张大床（1.8米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [
+                                {
+                                    "tagTitle": "门店首单",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "新客体验钻石",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "discountTags": [
+                                {
+                                    "tagTitle": "2项优惠82",
+                                    "tagId": -5,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "非朴宿品牌酒店",
+                                    "tagId": 20002,
+                                    "tagTemplateId": 202273,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "125308304",
+                        "masterHotelId": "125308304",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "胖胖民宿",
+                        "enName": "Pangpang Homestay",
+                        "names": [
+                            "胖胖民宿"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "民宿",
+                        "categoryId": 510,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 1388347709,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc1t12000kgpvev29A7D_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1240011499,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0204z12000hn0y7i9E03A_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1729733269,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0206m12000qk890gt68E3_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1240011499,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0204z12000hn0y7i9E03A_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1713522421,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc6d12000pzjjcfe3C89_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 0,
+                        "starType": 2
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": []
+                    },
+                    "commentInfo": {
+                        "commentScore": "4.4",
+                        "commentDescription": "",
+                        "commenterNumber": "11条点评",
+                        "subScore": [
+                            {
+                                "number": "4.4",
+                                "content": "卫生",
+                                "scoreAvg": "4.3",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "4.2",
+                                "content": "设施",
+                                "scoreAvg": "4.3",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "4.4",
+                                "content": "环境",
+                                "scoreAvg": "4.3",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "4.4",
+                                "content": "服务",
+                                "scoreAvg": "4.3",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"地铁交通便利，方便出行\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFyLEOgjAQBuB3+ecO1yvUeqMbg9H4BuS4hEZAUspAjO/uYuI3fm+Mr2pTN0A8t4FSoMah5tm22s8rxJ8S0znFpqUYHXQ0fXYLBEwcKTLjl7e9/jfAYcjbOvXHvWQ1iCdy0L0UW/SA4HG94PMFsiYjhA==",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 213,
+                        "cityName": "常州",
+                        "cityNameEn": "Changzhou",
+                        "positionDesc": "近常州站 · 常州火车站地铁站",
+                        "address": "北环新村77幢戊单元101室",
+                        "zoneNames": [
+                            "常州站/天宁寺"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.7936505318609",
+                                "longitude": "119.98264888794363",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1618466268",
+                            "saleRoomName": "温馨大床房",
+                            "physicsName": "温馨大床房",
+                            "shadowId": "0",
+                            "encryptedRoomId": "QRZ0J0",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 100,
+                            "currency": "RMB",
+                            "displayPrice": "¥100",
+                            "displayPriceDetail": {
+                                "price": "100",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 0,
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_double_bed"
+                            ],
+                            "contentList": [
+                                "1张1.5米双人床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "1张双人床（1.5米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [],
+                            "discountTags": [],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "热卖！低价房仅剩1间",
+                                    "tagId": 20011,
+                                    "tagTemplateId": 202269,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "122218135",
+                        "masterHotelId": "122218135",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "简·艺术设计师公寓(常州中华恐龙园奥体中心店)",
+                        "enName": "J.hotel",
+                        "names": [
+                            "简·艺术设计师公寓（常州中华恐龙园奥体中心店）"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "民宿",
+                        "categoryId": 510,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 1788783133,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0584n12000soh4es59AC2_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1160221355,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc5s12000gemxdrn5576_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1128467491,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc1k12000f3079gfC13D_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1128469119,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc6712000f30drz06725_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1128467385,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc1m12000f307s9vBDC7_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 2,
+                        "starType": 2,
+                        "starIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/T2Images/0623/ic_new_circle2@3x.png"
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": [],
+                        "primeHotel": {
+                            "tagId": 12371,
+                            "tagTitle": "优享会",
+                            "tagPosition": 232,
+                            "tagTemplateId": 0,
+                            "tagIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png",
+                            "value": ""
+                        }
+                    },
+                    "commentInfo": {
+                        "commentScore": "4.9",
+                        "commentDescription": "超棒",
+                        "commenterNumber": "188条点评",
+                        "subScore": [
+                            {
+                                "number": "4.9",
+                                "content": "卫生",
+                                "scoreAvg": "4.3",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "4.8",
+                                "content": "设施",
+                                "scoreAvg": "4.3",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "4.8",
+                                "content": "环境",
+                                "scoreAvg": "4.3",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "4.9",
+                                "content": "服务",
+                                "scoreAvg": "4.3",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"服务热情周到，房间干净整洁\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFyLEOgjAQBuB3+ecOd4fU2tGNgWh4A3JcQiMgKWUgxndnMfEbvw/Gd7GpGRBZRDhwVTuUNNtW+nlF5GsQugV/qcl7Bx1NX82CCCHx5EXwy8de/lvBYUjbOvXHMyc1RCZ20D1nW/RARNfe8T0BsbojhA==",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 213,
+                        "cityName": "常州",
+                        "cityNameEn": "Changzhou",
+                        "positionDesc": "近常州中华恐龙园店 · 中华恐龙园",
+                        "address": "山外有山公寓2栋529",
+                        "zoneNames": [
+                            "环球恐龙城/奥体中心"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.816779716908115",
+                                "longitude": "120.01297017326473",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1572982620",
+                            "saleRoomName": "简.爱奶油大床房【巨幕投影】",
+                            "physicsName": "简.爱奶油大床房【巨幕投影】",
+                            "shadowId": "0",
+                            "encryptedRoomId": "Q3IG5N",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 101,
+                            "currency": "RMB",
+                            "displayPrice": "¥101",
+                            "displayPriceDetail": {
+                                "price": "101",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 206,
+                            "deleteDisplayPrice": "¥206",
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_double_bed"
+                            ],
+                            "contentList": [
+                                "1张1.8米大床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "1张大床（1.8米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [
+                                {
+                                    "tagTitle": "新客体验钻石",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "门店首单",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "十亿豪补",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "discountTags": [
+                                {
+                                    "tagTitle": "3项优惠105",
+                                    "tagId": -5,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "34分钟前有人预订",
+                                    "tagId": 20013,
+                                    "tagTemplateId": 202270,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "hotelInfo": {
+                    "summary": {
+                        "hotelId": "73010590",
+                        "masterHotelId": "73010590",
+                        "hotelType": "NORMAL",
+                        "isUseHomestayDetailPage": true
+                    },
+                    "statusInfo": {
+                        "status": 1,
+                        "buttonContent": "查看详情",
+                        "isCanFold": false,
+                        "isCollected": false
+                    },
+                    "nameInfo": {
+                        "name": "南山竹海太卜竹隐民宿",
+                        "enName": "Nanshan Zhuhai Taibu Zhuyin Hostel",
+                        "names": [
+                            "南山竹海太卜竹隐民宿"
+                        ]
+                    },
+                    "hotelCategory": {
+                        "categoryName": "民宿",
+                        "categoryId": 510,
+                        "isDisplay": false,
+                        "isWowHotel": false,
+                        "isAA": true
+                    },
+                    "decorator": {
+                        "isHotelCardHighlight": false
+                    },
+                    "hotelImages": {
+                        "multiImgs": [
+                            {
+                                "id": 503781552,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0206g120008oupsps3E5B_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 503782437,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0204m120008ouq3jc10C2_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 503782448,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/02012120008ouq3j86E3D_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 1040751705,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/1mc0212000dckwyyv6831_R_600_600_R5_D.jpg_.webp"
+                            },
+                            {
+                                "id": 503781573,
+                                "position": 28,
+                                "group": 1,
+                                "url": "https://dimg04.c-ctrip.com/images/0205h120008oupefv3A7B_R_600_600_R5_D.jpg_.webp"
+                            }
+                        ]
+                    },
+                    "hotelStar": {
+                        "star": 3,
+                        "starType": 2,
+                        "starIconUrl": "https://pages.c-ctrip.com/wireless-app/imgs/T2Images/0623/ic_new_circle3@3x.png"
+                    },
+                    "advertiseInfo": {
+                        "isAdHotel": false,
+                        "isAdSolt": false
+                    },
+                    "hotelTags": {
+                        "hotelNameTags": [],
+                        "primeHotel": {
+                            "tagId": 12371,
+                            "tagTitle": "优享会",
+                            "tagPosition": 232,
+                            "tagTemplateId": 0,
+                            "tagIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png",
+                            "value": ""
+                        }
+                    },
+                    "commentInfo": {
+                        "commentScore": "4.7",
+                        "commentDescription": "超棒",
+                        "commenterNumber": "316条点评",
+                        "subScore": [
+                            {
+                                "number": "4.7",
+                                "content": "卫生",
+                                "scoreAvg": "4.7",
+                                "scoreType": 3
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "设施",
+                                "scoreAvg": "4.6",
+                                "scoreType": 5
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "环境",
+                                "scoreAvg": "4.7",
+                                "scoreType": 2
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "服务",
+                                "scoreAvg": "4.7",
+                                "scoreType": 4
+                            }
+                        ],
+                        "taAlt": "",
+                        "taUrl": "",
+                        "ugcSentence": "",
+                        "fullRating": "5",
+                        "oneSentenceComment": [
+                            {
+                                "tagId": 12373,
+                                "tagTitle": "\"房间设施和环境都不错，离竹海很近\"",
+                                "tagPosition": 234,
+                                "tagTemplateId": 30214,
+                                "tagIcon": "",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "signInNote": {},
+                    "extend": {
+                        "token": "eJxFyLEOgjAQBuB3+ecO1wIHvdGNwWh8A3JcQiMgKWUgxnd3MfEbvzemV7G5HyFtRZ6aSA4lLbaXYdkgvu0CxY7rhpgddDJ99isEgQITh4Bf3o7y3woOY9q3eTjvOalBfB0d9MjZVj0heFwv+HwBmVwjYA==",
+                        "attachedFilters": []
+                    },
+                    "positionInfo": {
+                        "cityId": 1358,
+                        "cityName": "溧阳",
+                        "cityNameEn": "Liyang",
+                        "positionDesc": "溧阳 · 南山竹海度假区 · 近天目湖御水温泉",
+                        "address": "戴埠镇李家园村委下场园39号",
+                        "zoneNames": [
+                            "南山竹海度假区"
+                        ],
+                        "mapCoordinate": [
+                            {
+                                "coordinateType": 3,
+                                "latitude": "31.186477987457767",
+                                "longitude": "119.54066466305159",
+                                "gcoordType": "BD09"
+                            }
+                        ],
+                        "isOversea": false,
+                        "provinceId": 15,
+                        "countryId": 1
+                    }
+                },
+                "roomInfo": [
+                    {
+                        "summary": {
+                            "type": "saleRoom",
+                            "roomId": "1043937909",
+                            "saleRoomName": "悟·雅致标间",
+                            "physicsName": "悟·雅致标间",
+                            "shadowId": "0",
+                            "encryptedRoomId": "GM8FAM",
+                            "roomQuantity": 1,
+                            "isCombinedRoom": false,
+                            "isRanOfHouse": false,
+                            "isHourRoom": false,
+                            "isCaliforniaRoom": false
+                        },
+                        "guestInfo": {
+                            "childCount": 0,
+                            "adultCount": 2
+                        },
+                        "payInfo": {
+                            "payType": 1,
+                            "subPayType": 0
+                        },
+                        "statusInfo": {
+                            "checkIn": "20260622",
+                            "checkOut": "20260623"
+                        },
+                        "priceInfo": {
+                            "priceType": 2,
+                            "price": 149,
+                            "currency": "RMB",
+                            "displayPrice": "¥149",
+                            "displayPriceDetail": {
+                                "price": "149",
+                                "unit": "¥",
+                                "isSpaceToConnect": false,
+                                "type": 1
+                            },
+                            "deletePrice": 188,
+                            "deleteDisplayPrice": "¥188",
+                            "isHiddenPrice": false,
+                            "afterPriceText": "起"
+                        },
+                        "bedInfo": {
+                            "list": [
+                                "ic_new_twobeds"
+                            ],
+                            "contentList": [
+                                "2张1.2米单人床"
+                            ],
+                            "cpxBedInfo": {
+                                "bedDetail": [
+                                    {
+                                        "roomName": "卧室1",
+                                        "detail": [
+                                            "2张单人床（1.2米宽）"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "roomTags": {
+                            "advantageTags": [
+                                {
+                                    "tagTitle": "订单确认后30分钟内免费取消",
+                                    "tagId": 10580,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                },
+                                {
+                                    "tagTitle": "包早餐",
+                                    "tagId": 301003,
+                                    "tagTemplateId": 50013,
+                                    "tagPosition": 2
+                                }
+                            ],
+                            "promotionTags": [
+                                {
+                                    "tagTitle": "新客体验钻石",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "门店首单",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                },
+                                {
+                                    "tagTitle": "十亿豪补",
+                                    "tagId": 11600,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "discountTags": [
+                                {
+                                    "tagTitle": "3项优惠39",
+                                    "tagId": -5,
+                                    "tagTemplateId": 0,
+                                    "tagPosition": 5
+                                }
+                            ],
+                            "encourageTags": [
+                                {
+                                    "tagTitle": "热卖！低价房仅剩4间",
+                                    "tagId": 20011,
+                                    "tagTemplateId": 202269,
+                                    "tagPosition": 288
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "hotelListAddtionInfo": {
+            "queryType": "List",
+            "combineFilters": [
+                {
+                    "type": "75",
+                    "title": "民宿",
+                    "value": "510",
+                    "filterId": "75|TAG_510"
+                },
+                {
+                    "type": "80",
+                    "title": "",
+                    "value": "2",
+                    "filterId": "80|2"
+                },
+                {
+                    "filterId": "29|1",
+                    "type": "29",
+                    "value": "1|2"
+                },
+                {
+                    "type": "17",
+                    "title": "欢迎度排序",
+                    "value": "1",
+                    "filterId": "17|1"
+                }
+            ],
+            "subStamp": 1456,
+            "timeOffset": 0,
+            "sessionId": "dea0bb7766294345958a047c1ad60b2e",
+            "dispatchId": "22bd632f-1880-437b-8ac5-ee7a2ad9ebc9-101",
+            "hotelTotalCount": 1019,
+            "loginType": 1,
+            "isShowIntelligentSort": false,
+            "isLastPage": false,
+            "isSupportWalkDriveSort": false,
+            "hotAreaFilters": [],
+            "extraInfos": {
+                "dispatchIdFilter": "",
+                "queryId": "100025527-0a7de3b7-495027-1772255",
+                "displayTotalCount": "",
+                "displayTotalRealCount": ""
+            },
+            "sortScenes": [
+                {
+                    "id": 36,
+                    "name": "guestHouse",
+                    "score": 1,
+                    "sourcetype": 0
+                }
+            ]
+        },
+        "bannerInfo": {
+            "pointAlliance": {
+                "title": "Get a boosted {0}5% Trip Coins{/0} on all properties with the earnings displayed!",
+                "buttonText": "查看详情",
+                "details": {
+                    "title": "how it works",
+                    "button": {
+                        "title": "Find stays with savings",
+                        "filterItems": [
+                            {
+                                "filterId": "83|1837",
+                                "type": "83",
+                                "value": "{\"prepayDiscount\":\"1837\"}",
+                                "title": "5% Trip Coins",
+                                "isRoomFilter": true
+                            }
+                        ]
+                    },
+                    "contents": [
+                        {
+                            "title": "Book a property with a Trip Coins label"
+                        },
+                        {
+                            "title": "You'll earn Trip Coins worth 5% of the booking total after you check out"
+                        },
+                        {
+                            "title": "Save on room rates by using your Trip Coins when paying online"
+                        }
+                    ]
+                }
+            },
+            "sceneFilter": {
+                "100": {
+                    "title": "Popular locations"
+                },
+                "101": {
+                    "title": "You May Like"
+                },
+                "104": {
+                    "title": ""
+                }
+            },
+            "homestayInfo": {
+                "title": "代表携程对民宿、度假屋等住宿的评级",
+                "expireDays": 3,
+                "more": "查看详情",
+                "bgUrl": "https://dimg04.tripcdn.com/images/1p12z12000gs5fh84FDCB.png",
+                "bgUrlDark": "https://dimg04.tripcdn.com/images/1p13512000gs5h6ib6CD3.png",
+                "details": {
+                    "title": "星级/钻级说明",
+                    "contents": [
+                        {
+                            "title": "民宿钻级说明",
+                            "starType": 2,
+                            "content": "民宿评级体系是携程对平台上所售卖的民宿，基于其掌握的综合信息，进行整体评估的评价体系。"
+                        },
+                        {
+                            "title": "酒店钻级说明",
+                            "starType": 1,
+                            "content": "Our diamond rating reflects a comprehensive assessment of a hotel's amenities, services, and other relevant aspects. Please be aware that it is not an official ranking."
+                        },
+                        {
+                            "title": "酒店星级说明",
+                            "starType": 0,
+                            "content": "Star ratings are provided by third-party organizations or institutions and offer valuable insights into a hotel's amenities, services, and other relevant aspects."
+                        }
+                    ]
+                }
+            }
+        },
+        "ubtTraceInfo": {
+            "hotel_result_show_methodid": "getDstMainRank",
+            "traceLogid": "100025527-0a7de3b7-495027-1772255"
+        },
+        "pagingInfo": {
+            "pageIndex": 11,
+            "pageSize": 10,
+            "slotToken": ""
+        }
+    },
+    "ResponseStatus": {
+        "Timestamp": "/Date(1782098645101+800)/",
+        "Ack": "Success",
+        "Errors": [],
+        "Build": "",
+        "Version": "1.0.0",
+        "Extension": [
+            {
+                "Id": "CLOGGING_TRACE_ID",
+                "Value": ""
+            },
+            {
+                "Id": "TraceLogId",
+                "Value": "100025527-0a7de3b7-495027-1772255"
+            },
+            {
+                "Id": "XRequestId",
+                "Value": "706c7150-f7dd-486f-81aa-b856e60d221d"
+            },
+            {
+                "Id": "RootMessageId",
+                "Value": "100025527-0a7de3b7-495027-1772269"
+            }
+        ]
+    }
+}
